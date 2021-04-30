@@ -1,8 +1,10 @@
 ### Olá! Me chamo Leonardo Henrique :) 👋
 
-Atualmente estou cursando Ciência da Computação pela Universidade Federal da Bahia. 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+### Sobbre mim
+
+Sou desenvolvedor há quase 5 anos. Atualmente, estou cursando Ciência da Computação pela Universidade Federal da Bahia e trabalhando com as tecnologias React, Javascript e GoLang.
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Python, C, JavaScript
