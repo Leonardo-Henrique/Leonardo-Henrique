@@ -1,5 +1,6 @@
 ### Olá! Me chamo Leonardo Henrique :) 👋
 
+Atualmente estou cursando Ciência da Computação pela Universidade Federal da Bahia. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
