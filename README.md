@@ -1,5 +1,15 @@
 ### Olá! Me chamo Leonardo Henrique :) 👋
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
+
+-  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
+-  **Languages :** Python, C, JavaScript
+-  **Hobbies :** Articles & Music :headphones:
+-  **Fact :** First solve the problem, then write the code :heart: 
+-  **Organization :** Technojam
+
+
 <!--
 **Leonardo-Henrique/Leonardo-Henrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
