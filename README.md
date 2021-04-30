@@ -2,15 +2,12 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Sobbre mim
+### Sobre mim
 
 Sou desenvolvedor há quase 5 anos. Atualmente, estou cursando Ciência da Computação pela Universidade Federal da Bahia e trabalhando com as tecnologias React, Javascript e GoLang.
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** Python, C, JavaScript
--  **Hobbies :** Articles & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Technojam
+-  **Aprendendo :** Amazon Web Services, Integração contínua
+-  **Hobbies :** Família, games, idiomas e piano :heart:
 
 
 <!--
