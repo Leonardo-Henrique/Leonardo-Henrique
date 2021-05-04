@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sobre mim
 
-Sou desenvolvedor há quase 5 anos. Atualmente, estou cursando Ciência da Computação pela Universidade Federal da Bahia e trabalhando com as tecnologias React, Javascript e GoLang.
+Sou desenvolvedor há quase 5 anos. Atualmente, estou cursando Ciência da Computação pela Universidade Federal da Bahia e trabalhando com as tecnologias React e GoLang.
 
 -  **Aprendendo :** Amazon Web Services, Integração contínua e Laravel
 -  **Hobbies :** Família, games, idiomas e piano :heart:
