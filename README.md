@@ -11,8 +11,8 @@ Sou desenvolvedor há quase 5 anos. Atualmente, estou cursando Ciência da Compu
 
 ### Liguagens de programação
 
-- PHP <3 
-- Golang
+- Go
+- PHP
 - Javascript
 - C++ / C
 
