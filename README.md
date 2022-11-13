@@ -4,9 +4,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Sobre mim
 
-Sou desenvolvedor há quase 5 anos. Atualmente, estou cursando Ciência da Computação pela Universidade Federal da Bahia e trabalhando com as tecnologias React e GoLang.
+Sou desenvolvedor há quase 5 anos. Atualmente, estou como Líder Técnico SRE na NTT DATA e curso Ciência da Computação pela Universidade Federal da Bahia. Trabalho com Kubernetes, Docker, Go, Python, AWS, GCP e um monte de outras coisas maneiras :D 
 
--  **Aprendendo :** MongoDB.
 -  **Hobbies :** Família, games, idiomas e piano :heart:
 
 ### Liguagens de programação
